@@ -2,7 +2,6 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-.idea/
 .idea/workspace.xml/
 
 
@@ -30,3 +29,4 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+.idea/
